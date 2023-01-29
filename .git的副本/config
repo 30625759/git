@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "TT"]
+	url = https://github.com/30625759/git.git
+	fetch = +refs/heads/*:refs/remotes/TT/*
